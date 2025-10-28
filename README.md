@@ -21,9 +21,9 @@ The home page of the game will display the game’s title and a navigation bar t
 
 ![Homepage (Clean Version)](./media/back_end/homepage_clean.png "Homepage Display")
 
-*LAYOUT*
-
-![Homepage (Layout)](./media/back_end/homepage_frame.png "Homepage Frame")
+> *LAYOUT*
+> 
+> ![Homepage (Layout)](./media/back_end/homepage_frame.png "Homepage Frame")
 
 ### How to Play
 This page will display a comprehensive set of rules and game mechanics. It will also include an embedded video tutorial on how to play the game.
