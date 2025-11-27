@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Key Code Level 1">
+        <meta name="author" content="Crisologo & Villarica">
+
+        <link rel="stylesheet" href="./styles/level.css">
+        <title>Key Code Lvl 1!</title>
+    </head>
+
+    <body>
+        <script src="./level.js"></script>
+        <div id="directions">
+            <h3>Make the sprite move up by 80 pixels and turn it red!</h3>
+        </div>
+
+        <div id="code_area">
+            <h2>Complete the code!</h2>
+            <span>
+                <h3>level1.css</h4>
+                <ul>
+                    <li><p>#sprite {</p></li>
+                    <li>
+                        <input id="blank1">
+                        <p>translateX(80px);</p>
+                    </li>
+                    <li>
+                        <p>color: rgb(</p>
+                        <input id="blank2">
+                        <p>);</p>
+                    </li>
+                    <li><input id="blank3"></li>
+                </ul>
+            </span>
+            <button id="submit_btn" onclick="checkInput()">Submit!</button>
+        </div>
+    </body>
+</html>

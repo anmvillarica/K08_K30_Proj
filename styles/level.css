@@ -1,0 +1,7 @@
+ul {
+    list-style-type: ">";
+}
+
+li {
+    display: flex; 
+}
